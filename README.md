@@ -1,1 +1,1 @@
-# -typescript-node-projects
+# typescript-node-projects
